@@ -1,0 +1,49 @@
+import airbnb from "./airbnb.png";
+import bill from "./bill.png";
+import binance from "./binance.png";
+import card from "./card.png";
+import coinbase from "./coinbase.png";
+import dropbox from "./dropbox.png";
+import quotes from "./quotes.svg";
+import phone from "./smartphone.png";
+import organization from "./organization.png";
+import training from "./training.png";
+
+import github from "./github.png";
+import linkedin from "./linkedin.png";
+import youtube from "./youtube.png";
+import gmail from "./gmail.png";
+
+import menu from "./menu.svg";
+import close from "./close.svg";
+import google from "./google.svg";
+import apple from "./apple.svg";
+import arrowUp from "./arrow-up.svg";
+import discount from "./Discount.svg";
+import facebook from "./facebook.svg";
+import instagram from "./instagram.svg";
+
+export {
+  airbnb,
+  bill,
+  binance,
+  card,
+  coinbase,
+  dropbox,
+  quotes,
+  phone,
+  organization,
+  training,
+  menu,
+  close,
+  google,
+  apple,
+  arrowUp,
+  discount,
+  facebook,
+  instagram,
+  linkedin,
+  github,
+  youtube,
+  gmail
+};
