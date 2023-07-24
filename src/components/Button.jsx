@@ -5,7 +5,7 @@ const Button = ({ username, link, logo }) => (
     type="button"
     className={`py-4 px-8 font-poppins font-medium text-[16px] text-primary white rounded-[16px] outline-none mx-3`}
   >
-    <a href={link}>
+    <a href={link} target="_blank">
     <div className="flex justify-center py-6">
     <img
       src={logo}
