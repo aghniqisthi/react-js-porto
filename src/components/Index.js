@@ -1,12 +1,12 @@
 import Navbar from "./NavBar";
 import Experience from "./Experience";
-import CTA from "./CTA";
+import Socmed from "./Socmed";
 import Project from "./Project";
 import Profile from "./Profile";
 
 export {
   Experience,
-  CTA,
+  Socmed,
   Navbar,
   Project,
   Profile,
