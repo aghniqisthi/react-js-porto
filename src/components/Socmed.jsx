@@ -2,7 +2,7 @@ import { socmed } from "../constants";
 import styles from "../style";
 import Button from "./Button";
 
-const CTA = () => (
+const Socmed = () => (
   <section
     className={`${styles.flexCenter} ${styles.marginY} sm:px-10 px-4 sm:py-12 py-4 sm:flex-col flex-col bg-black-gradient-2 rounded-[20px] box-shadow`}
   >
@@ -19,4 +19,4 @@ const CTA = () => (
   </section>
 );
 
-export default CTA;
+export default Socmed;

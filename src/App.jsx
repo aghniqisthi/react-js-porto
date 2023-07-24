@@ -1,7 +1,7 @@
 import styles from "./style";
 import {
   Experience,
-  CTA,
+  Socmed,
   Navbar,
   Project,
   Profile,
@@ -25,7 +25,7 @@ const App = () => (
       <div className={`${styles.boxWidth}`}>
         <Experience />
         <Project />
-        <CTA />
+        <Socmed />
       </div>
     </div>
   </div>
